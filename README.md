@@ -1,7 +1,8 @@
 ### Hi there 👋
 
 ### Projects
-- [flomo 插件](https://flomo-extension-pages.hotstrips.org)：一款无需 flomo 会员就能在浏览器中记录 flomo 笔记。 
+- [flomo 插件](https://flomo-extension-pages.hotstrips.org)：一款无需 flomo 会员就能在浏览器中记录 flomo 笔记。
+- [自动填写 EDS 日志](https://github.com/Idiot-Alex/auto-write-eds): 自动填写新致 EDS 日志。
 
 ### 为爱发电，如果我的工作帮助到了你，可以请我喝一杯咖啡☕️，鼓励我继续努力💪
 
